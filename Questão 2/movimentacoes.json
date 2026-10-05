@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "codigoProduto": 101,
+        "produto": "Caneta Azul",
+        "tipo": "Saída",
+        "descricao": "Saída de mercadoria",
+        "quantidade": 20,
+        "estoque_final": 130,
+        "data_hora": "04/10/2026 17:20:04"
+    },
+    {
+        "id": 2,
+        "codigoProduto": 101,
+        "produto": "Caneta Azul",
+        "tipo": "Entrada",
+        "descricao": "Entrada de mercadoria",
+        "quantidade": 1,
+        "estoque_final": 131,
+        "data_hora": "04/10/2026 17:20:19"
+    }
+]
